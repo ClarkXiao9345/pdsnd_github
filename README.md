@@ -1,17 +1,24 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+First Six months of 2017.
+
+### Data contain:
+The Datasets data files contain the same core six (6) columns:
+
+Start Time (e.g., 2017-01-01 00:07:57)
+End Time (e.g., 2017-01-01 00:20:53)
+Trip Duration (in seconds - e.g., 776)
+Start Station (e.g., Broadway & Barry Ave)
+End Station (e.g., Sedgwick St & North Ave)
+User Type (Subscriber or Customer)
 
 ### Project Title
-Replace the Project Title
+Bike Share Data
 
 ### Description
-Describe what your project is about and what it does
+Uncovering bike share usage patterns by comparing system usage between three large cities:chicago,New York City and Washington,DC.
 
 ### Files used
-Include the files used
+chicago.csv; new_york_city.csv; washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/udacity/pdsnd_github
